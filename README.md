@@ -64,8 +64,7 @@ Intermediate (FSC) | **Grade: A**
 
 ## 🌟 Hobbies Beyond Code
 - 🏁 Capture the Flag (CTFs)
-- 🎮 Gaming (FPS, Strategy)
-- ✏️ Cybersecurity Write-ups & Tutorials
+- ✏️ Cybersecurity Tutorials
 - 🎧 Music for Focus
   
 
@@ -75,12 +74,12 @@ Intermediate (FSC) | **Grade: A**
 - 📧 **Email:** [emaniftikhar55@gmail.com](mailto:emaniftikhar55@gmail.com)
 - ☎️ **Phone:** 0332-5095107
 - 🔗 **LinkedIn:** [linkedin.com/in/eman-iftikhar-3a7ba9210](https://linkedin.com/in/eman-iftikhar-3a7ba9210)
-- 💻 **GitHub:** [github.com/emaniftikhar55](https://github.com/emaniftikhar55)
+- 💻 **GitHub:** [github.com/emaniftikhar04](https://github.com/emaniftikhar04)
 
 ---
 
 ## 🏅 Badges That Speak For Me
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emaniftikhar55.Portfolio)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emaniftikhar04.Portfolio)
 ![Languages](https://img.shields.io/badge/Writing-Technical%20&%20Creative-purple)
 ![Cybersecurity](https://img.shields.io/badge/Security-Enthusiast-blueviolet)
 ![Profile](https://img.shields.io/badge/Profile-Active-brightgreen)
@@ -89,11 +88,11 @@ Intermediate (FSC) | **Grade: A**
 
 ## 📊 My GitHub by the Numbers
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emaniftikhar55&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emaniftikhar04&show_icons=true&theme=tokyonight&hide=issues" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaniftikhar55&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaniftikhar04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
