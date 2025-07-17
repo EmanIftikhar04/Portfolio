@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20About%20Offensive%20Security;Focused%20on%20Network%20Defense%20%26%20Analysis;Learning%20Ethical%20Hacking%20Step-by-Step!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner+%7C+CTF+Player" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,6 +12,9 @@
 ## 👋 About Me
 I’m Eman Iftikhar, a dedicated **Cybersecurity student at Air University Islamabad**.  
 I am passionate about **securing systems, learning through breaking (ethically!), and strengthening defenses**. My interests span from **network security** to **penetration testing** to **reverse engineering**.
+
+
+
 
 I thrive in environments where I can challenge myself technically — whether it’s analyzing packets, solving CTF challenges, or strengthening systems.
 
@@ -28,6 +31,9 @@ I thrive in environments where I can challenge myself technically — whether it
 | **Networking** | Firewalls, Load Balancers, Packet Analysis                   |
 | **Environments**| Linux (Primary), Windows, VirtualBox, VMware                |
 
+
+
+  
 ---
 
 ## 🚀 Noteworthy Projects
