@@ -4,8 +4,6 @@ My personal portfolio to showcase skills, tools, and projects.
 
 > *"Stay curious, keep learning, and build something meaningful."*  
 
-# 👋 Hi, I'm Eman Iftikhar!
-
 > *Cybersecurity Enthusiast | Problem Solver | Fast Learner*
 
 ---
