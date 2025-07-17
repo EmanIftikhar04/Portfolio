@@ -1,92 +1,106 @@
-# Portfolio
-My personal portfolio to showcase skills, tools, and projects.
-# 👋 Hi there, I'm Eman Iftikhar!
+<h1 align="center">✨ Eman Iftikhar ✨</h1>
 
-> *"Stay curious, keep learning, and build something meaningful."*  
-
-> *Cybersecurity Enthusiast | Problem Solver | Fast Learner*
-
----
-
-## 🎯 Objective
-Cyber Security student at **Air University Islamabad**, with hands-on experience in tools like **Wireshark, Kali Linux, and Burp Suite**. Skilled in **Python, C++, and networking fundamentals**, with academic projects and **CTF participation**. Passionate about applying technical skills, analytical thinking, and collaboration in cybersecurity fields.
+<p align="center">
+🔐 Cybersecurity Enthusiast | Problem Solver | Creative Thinker  
+💡 Passionate about Securing Systems, Breaking Things (Legally) & Building Resilience  
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 Who Am I?
+I'm currently pursuing a **Bachelor’s in Cybersecurity** from **Air University Islamabad** (CGPA: 3.13).  
+My curiosity drives me towards uncovering vulnerabilities and strengthening security measures through practical tools like **Wireshark, Burp Suite, and Kali Linux.** I am actively involved in CTFs, academic projects, and security societies to sharpen my technical edge.
 
-- **Core Cybersecurity Skills**
-- **Tools & Platforms:** Wireshark, Burp Suite, Kali Linux
-- **Programming & Scripting:** Python, C, C++, OOP, Bash Scripting
-- **Networking Knowledge:** Packet Filtering Firewalls, Load Balancers, Packet Analysis
-- **Environments:** Linux, Windows, VirtualBox, VMware
+I believe in continuous learning, hands-on practice, and contributing to the cybersecurity community through write-ups and tools.
 
 ---
 
-## 📂 Projects & Hands-On Work
-| **Project**             | **Description**                                                   |
-|--------------------------|-------------------------------------------------------------------|
-| Performance Testing      | Conducted stress/load testing on web apps using **BlazeMeter** & **JMeter** |
-| Steganography            | Embedded sensitive data into **images, audio, and text** files for secure communication |
-| Capture the Flag (CTF)   | Participated in **CTFs** solving real-world cybersecurity and reverse engineering challenges |
-| Packet Filtering Firewall| Developed a GUI-based **packet-filtering firewall** in **C++ OOP** |
+## 🚀 Tech Arsenal I Work With
+| 🛠️ Category    | 🚩 Technologies / Tools                                 |
+|----------------|---------------------------------------------------------|
+| **Security**   | Kali Linux, Burp Suite, Wireshark, Packet Filtering     |
+| **Programming**| Python, C, C++, Bash Scripting, Object-Oriented Design   |
+| **Networking** | Firewalls, Load Balancers, Packet Analysis               |
+| **Platforms**  | Linux (Primary), Windows, VMware, VirtualBox             |
 
 ---
 
-## 🏅 Certificates & Achievements
+## 📂 Projects That Made Me Think Hard
+🧪 **Performance Testing (JMeter, BlazeMeter)**  
+Conducted realistic load and stress testing on web applications.
 
-[![Google Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations_of_Cyber_Security-blue)](./certificates/Coursera%20EE9J2BA68BS4%20(2).pdf)
+🎭 **Steganography Techniques**  
+Embedded sensitive data into images, audio, and text for covert communication.
 
-[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-blue)](./certificates/Introduction_to_Cybersecurity_Badge20241011-7-a7t7pl%20(1).pdf)
+🏹 **CTF Challenges**  
+Solved cybersecurity puzzles under pressure, practiced exploitation and reversing skills.
 
-[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics_(In_Progress)-lightgrey)](#)
-
----
-
-## 💼 Experience
-- **Member** – Cyber Awareness Society, Air University
-- **Graphics Team** – AUCSS (Air University Computer Science Society)
-
----
-
-## 🎓 Education
-- **Bachelor’s in Cybersecurity** – Air University, Islamabad (2023 – 2027)  
-  *Current CGPA: 3.13*
-- **Intermediate (FSC)** – Punjab Group of Colleges (2021 – 2023)  
-  *A Grade*
+🧱 **Packet Filtering Firewall (GUI - C++)**  
+Designed a simple yet educational firewall to filter packets using OOP principles.
 
 ---
 
-## 🎧 Hobbies & Interests
-- Cybersecurity Challenges & Write-ups  
-- Capture the Flag (CTF) Competitions  
-- Reading Tech Blogs  
-- Designing Graphics  
-- Gaming 🎮  
-- Listening to Music 🎧  
+## 🎖️ Certifications
+[![Google Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations_of_Cyber_Security-blue?logo=google)](./certificates/Coursera%20EE9J2BA68BS4%20(2).pdf)
+[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-blue?logo=cisco)](./certificates/Introduction_to_Cybersecurity_Badge20241011-7-a7t7pl%20(1).pdf)
+[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics_(In_Progress)-lightgrey?logo=cisco)](#)
 
 ---
 
-## 📫 Contact Me
-- **📧 Email:** [emaniftikhar55@gmail.com](mailto:emaniftikhar55@gmail.com)
-- **📱 Phone:** 0332-5095107
-- **💼 LinkedIn:** [linkedin.com/in/eman-iftikhar-3a7ba9210](https://linkedin.com/in/eman-iftikhar-3a7ba9210)
-- **🌐 GitHub:** [github.com/emaniftikhar55](https://github.com/emaniftikhar55)
+## 🌱 Activities & Engagement
+- 🔹 Member – **Cyber Awareness Society**, Air University  
+- 🎨 Graphics Designer – **Air University CS Society (AUCSS)**  
 
 ---
 
-## 🛡️ Badges
+## 🎓 My Academic Journey
+**🎓 Air University, Islamabad (2023 – 2027)**  
+Bachelor’s in Cybersecurity | **CGPA: 3.13**
+
+**🏫 Punjab Group of Colleges (2021 – 2023)**  
+Intermediate (FSC) | **Grade: A**
+
+---
+
+## 🌟 Hobbies Beyond Code
+- 🏁 Capture the Flag (CTFs)
+- 🎮 Gaming (FPS, Strategy)
+- ✏️ Cybersecurity Write-ups & Tutorials
+- 🎧 Music for Focus
+  
+
+---
+
+## 📞 Let's Connect!
+- 📧 **Email:** [emaniftikhar55@gmail.com](mailto:emaniftikhar55@gmail.com)
+- ☎️ **Phone:** 0332-5095107
+- 🔗 **LinkedIn:** [linkedin.com/in/eman-iftikhar-3a7ba9210](https://linkedin.com/in/eman-iftikhar-3a7ba9210)
+- 💻 **GitHub:** [github.com/emaniftikhar55](https://github.com/emaniftikhar55)
+
+---
+
+## 🏅 Badges That Speak For Me
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emaniftikhar55.Portfolio)
-![Languages](https://img.shields.io/badge/Language-Markdown-blue)
+![Languages](https://img.shields.io/badge/Writing-Technical%20&%20Creative-purple)
+![Cybersecurity](https://img.shields.io/badge/Security-Enthusiast-blueviolet)
 ![Profile](https://img.shields.io/badge/Profile-Active-brightgreen)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaniftikhar55&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaniftikhar55&layout=compact&theme=radical)
+## 📊 My GitHub by the Numbers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emaniftikhar55&show_icons=true&theme=tokyonight&hide=issues" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaniftikhar55&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌟 Thanks for visiting my profile!
+## 💭 Final Words:
+> "I don’t just break things to learn; I build them better after."  
+> 📍 **Let's make the digital world safer, together.**
+
+---
 
